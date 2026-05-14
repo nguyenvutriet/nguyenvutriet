@@ -2,82 +2,62 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/nguyen-vu-triet-03a2a92a1" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
 ### Glad to see you here! 
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+I am a Software Engineering student currently focusing on Backend Development with a mission to build scalable and efficient systems that power the next generation of technology.🚀
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+I have a passion for problem-solving and a deep interest in backend architecture, driven by a strong foundation in Java Core (Java 21), Spring, and Spring Boot. I am an explorer of robust backend technologies, utilizing Hibernate, JDBC, and JSP Servlet to build high-performance applications. I am also experienced in managing and optimizing data across MySQL and PostgreSQL, and I frequently use Docker to containerize and manage my environments effectively.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+From developing student inquiry resolution systems to drafting complex software requirements, I am committed to making a positive impact through clean code and innovative engineering.
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+I'm an avid learner and a "Second Brain" enthusiast, constantly organizing my knowledge to stay ahead in the fast-paced tech world. When I'm not coding, you'll find me watching educational content on YouTube or TikTok, fueling my curiosity for the latest industry trends.
 
-Joined Github **7** years ago.
-
-Since then I pushed **3576**+ commits, opened **229**+ issues, submitted **609**+ pull requests, created **20**+ gists and contributed to **4**+ public repositories.
+Feel free to connect with me for all things tech or just to say hello! Let's shape the future of software together. 🌟
 
 <hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 🛠 &nbsp; I’m currently working with SpringBoot, TS, AWS, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, NoSQL, etc.
+- 🎓 &nbsp; I'm a final-year student specializing in **Software Engineering**.
+- 📚 &nbsp; I'm passionate about **Java Backend Architecture**.
+- 📫 &nbsp; Reach me out: nguyenvutriet0205@gmail.com
+- 💼 &nbsp; [Resume](https://drive.google.com/drive/folders/1aoWeXKZkgv0djB6Yom1EgSZDEFL9UCqg?usp=sharing) 
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
+<code><img height="27" src="https://spring.io/img/projects/spring-boot.svg" alt="spring boot"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="jdbc"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/JSP-logo.svg" alt="jsp servlet"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
+<code><img height="27" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="intellij"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/heidisql/heidisql-icon.svg" alt="heidisql"></code>
+<code><img height="27" src="https://www.pgadmin.org/static/COMPILED/assets/img/logo-advantage.png" alt="pgadmin4"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github"></code>
+<code><img height="27" src="https://sparxsystems.com.au/images/logos/ea_logo.png" alt="enterprise architect"></code>
 
-### Projects and Dev Stuffs:
-
-
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
-</details>
-
-#
-
+#### Software Design
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="uml"></code>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
