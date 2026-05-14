@@ -55,8 +55,6 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github"></code>
 <code><img height="27" src="https://sparxsystems.com.au/images/logos/ea_logo.png" alt="enterprise architect"></code>
-
-#### Software Design
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="uml"></code>
 <div align="center">
 
