@@ -58,6 +58,4 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="uml"></code>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
 </div>
