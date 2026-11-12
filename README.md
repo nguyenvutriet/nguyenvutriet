@@ -5,11 +5,11 @@
 </h5>
 
 ### Glad to see you here! 
-I am a Software Engineering student currently focusing on Backend Development with a mission to build scalable and efficient systems that power the next generation of technology.🚀
+I am a Backend Developer student currently focusing on Backend Development with a mission to build scalable and efficient systems that power the next generation of technology.🚀
 
-I have a passion for problem-solving and a deep interest in backend architecture, driven by a strong foundation in Java Core (Java 21), Spring, and Spring Boot. I am an explorer of robust backend technologies, utilizing Hibernate, JDBC, and JSP Servlet to build high-performance applications. I am also experienced in managing and optimizing data across MySQL and PostgreSQL, and I frequently use Docker to containerize and manage my environments effectively.
+I have a passion for problem-solving and a deep interest in backend architecture, driven by a strong foundation in Java Core (Java 21), Spring, and Spring Boot. I am an explorer of robust backend technologies, utilizing Hibernate, Data JPA, Actuator to build high-performance applications. I am also experienced in managing and optimizing data across MySQL and PostgreSQL, and I frequently use Docker to containerize and manage my environments effectively.
 
-From developing student inquiry resolution systems to drafting complex software requirements, I am committed to making a positive impact through clean code and innovative engineering.
+From developing student inquiry resolution systems to drafting complex software requirements, I am committed to making a positive impact through clean code and innovative engineering. 
 
 I'm an avid learner and a "Second Brain" enthusiast, constantly organizing my knowledge to stay ahead in the fast-paced tech world. When I'm not coding, you'll find me watching educational content on YouTube or TikTok, fueling my curiosity for the latest industry trends.
 
@@ -21,9 +21,9 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with SpringBoot, TS, AWS, etc.
+- 🛠 &nbsp; I’m currently working with SpringBoot, ReactJS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, NoSQL, etc.
-- 🎓 &nbsp; I'm a final-year student specializing in **Software Engineering**.
+- 🎓 &nbsp; I'm a final-year student specializing in **Backend Developer**.
 - 📚 &nbsp; I'm passionate about **Java Backend Architecture**.
 - 📫 &nbsp; Reach me out: nguyenvutriet0205@gmail.com
 - 💼 &nbsp; [Resume](https://drive.google.com/drive/folders/1aoWeXKZkgv0djB6Yom1EgSZDEFL9UCqg?usp=sharing) 
@@ -50,7 +50,6 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 <code><img height="27" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="intellij"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/heidisql/heidisql-icon.svg" alt="heidisql"></code>
-<code><img height="27" src="https://www.pgadmin.org/static/COMPILED/assets/img/logo-advantage.png" alt="pgadmin4"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github"></code>
